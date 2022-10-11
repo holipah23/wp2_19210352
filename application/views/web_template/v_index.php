@@ -38,5 +38,6 @@ tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu MVC? Kita jug
 			cepat dan terstruktur.
 		</p>
 	</ol>
+	
 </section>
 
